@@ -1,2 +1,4 @@
 ﻿# Nextjs_landingPage
-Lihat dokumentasi lengkap fitur ini di [halaman dokumentasi](https://components.bridger.to/feature).
+Component :  [Components Bridger to](https://components.bridger.to/feature).
+<br/>
+Build your component library :  [shadcn](https://ui.shadcn.com/).
